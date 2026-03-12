@@ -1,6 +1,6 @@
 # Load-test-on-D.C-Shunt-Generator
-### Name:Arun Dani A
-### Reg no:212224080007
+### Name:Jothi prakash S
+### Reg no:212223080021
 Aim:
 To conduct load test on separately excited generators and to obtain the characteristics
 Apparatus Required:
